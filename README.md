@@ -1,5 +1,5 @@
 
-#AI BASED PERSONALIZED OUTFIT RECOMMENDER - Wear Now
+#AI BASED PERSONALIZED OUTFIT RECOMMENDER
 
 
 Wear Now is built using various recommandation algorithms such as popularity based ,content based and collaborative filtering.
@@ -272,9 +272,7 @@ Once all the requirement is installed then run the following command to run the 
 ```
 
 
-In Case of any doubts or if you need assistance in running the project, feel free to reach out to me:
-- **LinkedIn:** [Surya S S](https://www.linkedin.com/in/surya-s-s-1512-/)
-- **Email:** suryass1215@gmail.com
+In Case of any doubts or if you need assistance in running the project, feel free to reach out to me.
 
 
 
